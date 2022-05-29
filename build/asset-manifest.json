@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HOLIDAY-ENJOYMENT-APP/static/css/main.c3df7ecb.css",
+    "main.js": "/HOLIDAY-ENJOYMENT-APP/static/js/main.cb297114.js",
+    "static/js/787.79b5345d.chunk.js": "/HOLIDAY-ENJOYMENT-APP/static/js/787.79b5345d.chunk.js",
+    "index.html": "/HOLIDAY-ENJOYMENT-APP/index.html",
+    "main.c3df7ecb.css.map": "/HOLIDAY-ENJOYMENT-APP/static/css/main.c3df7ecb.css.map",
+    "main.cb297114.js.map": "/HOLIDAY-ENJOYMENT-APP/static/js/main.cb297114.js.map",
+    "787.79b5345d.chunk.js.map": "/HOLIDAY-ENJOYMENT-APP/static/js/787.79b5345d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3df7ecb.css",
+    "static/js/main.cb297114.js"
+  ]
+}
