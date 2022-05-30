@@ -1,6 +1,6 @@
 # HOLIDAY ENJOYMENT
 
-ONLINE WEBSITE LINK FOR MY APP :https://silver-liger-590b2b.netlify.app/search
+ONLINE WEBSITE LINK FOR MY APP :https://silver-liger-590b2b.netlify.app
 
 
 ## Authors
